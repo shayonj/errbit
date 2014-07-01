@@ -1,0 +1,14 @@
+ADMIN_EMAIL:
+ADMIN_PASS:
+ADMIN_UNAME:
+MAILER_HOST:
+HEROKU: true
+SECRET_TOKEN: (bundle exec rake secret)
+ERRBIT_HOST:
+ERRBIT_EMAIL_FROM:
+
+development:
+  HOST:
+
+production:
+  HOST:

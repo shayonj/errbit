@@ -1,3 +1,8 @@
+# Custom Instance for Errbit
+
+Feel free to follow the setup instructions below. Although for envrionment variables we are using figaro. So be sure to update application.yml on deployment.
+
+----  
 # Errbit [![TravisCI][travis-img-url]][travis-ci-url] [![Code Climate][codeclimate-img-url]][codeclimate-url] [![Coveralls][coveralls-img-url]][coveralls-url] [![Dependency Status][gemnasium-img-url]][gemnasium-url]
 
 [travis-img-url]: https://travis-ci.org/errbit/errbit.svg?branch=master
@@ -609,4 +614,3 @@ Copyright
 ---------
 
 Copyright (c) 2010-2013 Errbit Team. See LICENSE for details.
-

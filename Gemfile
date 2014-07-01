@@ -127,3 +127,7 @@ group :assets do
   gem 'underscore-rails'
   gem 'turbo-sprockets-rails3'
 end
+
+
+### Custom Additions
+gem 'figaro'
